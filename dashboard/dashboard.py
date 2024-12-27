@@ -12,7 +12,7 @@ Dashboard ini menampilkan visualisasi operasional penyewaan sepeda berdasarkan d
 # 2. Load Data
 @st.cache_data  # Menggunakan cache untuk mempercepat load data
 def load_data():
-    data = pd.read_csv('main_data.csv')
+    data = pd.read_csv('dashboard/main_data.csv')
     data['dteday'] = pd.to_datetime(data['dteday'])  # Pastikan kolom dteday dalam format datetime
     return data
 
