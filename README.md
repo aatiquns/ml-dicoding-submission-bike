@@ -28,3 +28,12 @@ Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data penyewaan sep
 4. **Jalankan Aplikasi Streamlit:**
    ```bash
     streamlit run dashboard/dashboard.py
+
+### **2. requirements.txt**
+Berikut adalah daftar pustaka yang dibutuhkan untuk menjalankan proyek dan melakukan deploy di Streamlit Community Cloud:
+    ```bash
+    streamlit pandas numpy matplotlib seaborn scikit-learn
+
+### **3. url.txt**
+File ini berisi URL ke repository GitHub dan aplikasi Streamlit:
+[atiq-ml-dicoding-submission](https://github.com/aatiquns/ml-dicoding-submission-bike https://atiq-ml-dicoding-submission.streamlit.app)
