@@ -36,4 +36,4 @@ Berikut adalah daftar pustaka yang dibutuhkan untuk menjalankan proyek dan melak
 
 ### **3. url.txt**
 File ini berisi URL ke repository GitHub dan aplikasi Streamlit:
-[atiq-ml-dicoding-submission](https://github.com/aatiquns/ml-dicoding-submission-bike https://atiq-ml-dicoding-submission.streamlit.app)
+    https://github.com/aatiquns/ml-dicoding-submission-bike https://atiq-ml-dicoding-submission.streamlit.app
